@@ -1,0 +1,1 @@
+This is a web scraper built using the Selenium WebDriver at http://selenium.dev. This is a personal project. I am not affiliated with Selenium in any way. If you use this tool, please make sure that you have permission before scraping any site!
